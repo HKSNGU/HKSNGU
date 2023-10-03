@@ -35,5 +35,5 @@
 
 <p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hksngu&show_icons=true&locale=en&layout=compact" alt="hksngu" /></p>
 
-<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hksngu&show_icons=true&locale=en" alt="hksngu" /></p>
+<p>&nbsp;<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=hksngu&show_icons=true&locale=en" alt="hksngu" /></p>
 

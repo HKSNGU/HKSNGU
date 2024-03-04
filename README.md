@@ -33,7 +33,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp
 </p>
 
-<p><img align="left" width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hksngu&show_icons=true&locale=en&layout=compact" alt="hksngu" /></p>
+<p><img align="left" width = "42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hksngu&show_icons=true&locale=en&layout=compact" alt="hksngu" /></p>
 
-<p>&nbsp;<img align="left" width = "50.5%" src="https://github-readme-stats.vercel.app/api?username=hksngu&show_icons=true&locale=en" alt="hksngu" /></p>
+<p>&nbsp;<img align="left" width = "47.5%" src="https://github-readme-stats.vercel.app/api?username=hksngu&show_icons=true&locale=en" alt="hksngu" /></p>
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development & Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://hksngu.github.io/Its-me-himanshu/](https://hksngu.github.io/Its-me-himanshu/)
+- 👨‍💻 All of my projects are available at [https://hksngu.github.io/Its-me-himanshu/](https://hksngu.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN, DSA**
 
